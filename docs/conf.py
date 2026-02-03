@@ -23,4 +23,4 @@ html_context = {
 }
 
 # Sitemap base URL
-html_baseurl = 'https://geeksquadguide.readthedocs.io/en/latest/'
+html_baseurl = 'https://geeksquadguides.readthedocs.io/en/latest/'
