@@ -3,11 +3,11 @@ How to Book a Geek Squad Appointment Easily?
 
 Getting reliable tech support can feel overwhelming when devices stop working or software issues interrupt your routine. A Geek Squad appointment offers a trusted solution for computer repair, device setup, troubleshooting, and technology support at home or in store. This article explains how Geek Squad appointments work, what services are available, and how to prepare for a smooth and stress free experience.
 
-.. image:: login-noww.png
+.. image:: bookappointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tbd.officialredir.com
+   :target: https://geeksquadappointments.com/
 
 Geek Squad is widely recognized for professional tech support services, certified technicians, and customer focused solutions. Understanding how to schedule and manage an appointment helps you save time and ensures your devices get the attention they need.
 
